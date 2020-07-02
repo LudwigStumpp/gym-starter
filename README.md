@@ -1,5 +1,5 @@
 # gym-starter
-Starter code for OpenAI Gym, following the documentation at [https://github.com/openai/gym/blob/master/docs/creating-environments.md](https://github.com/openai/gym/blob/master/docs/creating-environments.md).
+Starter template for creating your own OpenAI Gym environment, following the documentation at [https://github.com/openai/gym/blob/master/docs/creating-environments.md](https://github.com/openai/gym/blob/master/docs/creating-environments.md).
 
 Make sure to also check out [https://gym.openai.com/docs/](https://gym.openai.com/docs/).
 
